@@ -1,0 +1,22 @@
+- ACEA A3/B3
+- ACEA A3/B4
+- API SN
+- BMW M-Series
+- Chrysler MS-6395
+- GM dexos2
+- GM dexosD
+- GM - 6094M
+- Fiat 9.55535-CR1
+- Ford WSS-M2C947-A
+- Ford WSS-M2C947-B1
+- ILSAC GF-6A
+- Koenigsegg Engine
+- MB Approval 229.71
+- Opel OV 040 1547-D40
+- Porsche C20
+- Renault RN0700
+- Renault RN0710
+- STJLR.03.5006
+- Volvo VCC RBS0-2AE
+- VW 501.01
+- VW 505.00

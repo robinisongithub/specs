@@ -1,0 +1,15 @@
+Specifications covered by EDGE 5W-20 02009:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- ILSAC GF-5
+- ILSAC GF-6A
+- ILSAC GF-7A
+- Ford M2C945-A
+- Ford M2C945-B1
+- Ford M2C960-A1
+- GM dexos1:2010
+- GM dexos1-Gen2
+- Chrysler MS-6395

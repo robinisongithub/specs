@@ -1,0 +1,19 @@
+- ACEA A3/B4
+- ACEA C3
+- ACEA C5
+- ACEA C6
+- API CF
+- API SN
+- BMW Longlife-14 FE+
+- BMW Longlife-17 FE+
+- Chrysler MS-6395
+- Fiat 9.55535-GSX
+- Fiat 9.55535-S2
+- Ford WSS-M2C956-A1
+- Ford WSS-M2C962-A1
+- ILSAC GF-7A
+- MB Approval 229.71
+- MB Approval 229.72
+- Porsche C20
+- STJLR.03.5006
+- Volvo VCC RBS0-2AE

@@ -1,0 +1,34 @@
+GM - 12345724
+GM - 12345871
+GM - 12346074
+GM - 89021806
+GM - 89021807
+GM-Daewoo - EDS-M-8049
+Holden - OEM
+Hyundai/Kia - 08950-00010-A
+Hyundai/Kia - 04300-5L1A0
+Jeep - 0489722AA
+Lotus - OEM
+Mazda - (MES) 115A
+Mazda - 0000-77-114-QT
+Mazda - L.L. Manual Gear Oil IS
+Mercedes-Benz - 235.11
+Mercedes-Benz - A 001 989 51 03 10
+Mitsubishi - OEM
+Mobil - SHC 630
+Nissan - Mission Oil MP-G HQ
+Opel - OEM
+Skoda - OEM
+Toyota - 08885-80917
+Toyota - 08885-81023
+Toyota - 08885-81026
+Vauxhall - OEM
+Volkswagen/Audi - G 005 000
+Volkswagen/Audi - G 005 100
+Volkswagen/Audi - G 045 190 A2
+Volkswagen/Audi - G 052 145
+Volkswagen/Audi - G 052 157
+Volkswagen/Audi - G 052 911
+Volkswagen/Audi - G51
+Volkswagen/Audi - G50
+Volkswagen/Audi - 501.5

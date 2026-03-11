@@ -1,0 +1,33 @@
+Aisin Warner - AW-1
+BMW - 83 22 0 142 516
+BMW - 83 22 2 152 426
+BMW - 83 22 2 289 720
+BMW - 83 22 2 305 396
+BMW - 83 22 2 305 397
+BMW - 83 22 2 355 599
+BMW - M-1375.4
+GM - Dexron VI
+Fiat - 9.55550-AV5
+Ford - Mercon LV
+Honda - ATF 3.1
+Honda - ATF DW-1
+Honda - Type 3.0
+Hyundai - SP-IV
+Hyundai - SP-IV-RR
+Isuzu - ATF WSI
+JASO - 1A-LV
+Aisin Warner - JWS 3324
+Land Rover - TYK 500050
+Mazda - ATF FZ
+Mercedes-Benz - 236.12
+Mercedes-Benz - 236.14
+Mercedes-Benz - 236.82
+Mitsubishi - Dia Queen ATF-MA1
+Mitsubishi - Dia Queen ATF-PA
+Nissan - AT-Matic S Fluid
+Nissan - Matic P
+Toyota - WS
+Volkswagen - G 055 005
+Volkswagen - G 055 162
+Volkswagen - G 055 540
+Volkswagen - G 060 162

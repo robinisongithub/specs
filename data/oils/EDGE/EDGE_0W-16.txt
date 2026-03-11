@@ -1,0 +1,8 @@
+Specifications covered by EDGE 0W-16 02008:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- ILSAC GF-6B
+- ILSAC GF-7B

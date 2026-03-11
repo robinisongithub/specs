@@ -1,0 +1,74 @@
+BMW/Mini - 83 22 0 136 376
+BMW/Mini - 83 22 0 429 154
+Esso - CVT EZL 799 Fluid
+Chrysler/Dodge/Jeep - Mopar NS-2 / CVTF+4
+Chrysler/Dodge/Jeep - 05191184AA
+Daihatsu - XA10 LN
+Ford - Mercon C / 23 / 30
+Ford - XT-7-QCFT
+Ford - WSS-M2C933-A
+Ford - M2C928-A
+GM - DEX-CVT
+GM - 22688912
+GM - 152346
+GM - 15231847
+GM - 15250985
+GM - 19260800
+GM - 19299096
+GM - AC Delco 15234609
+Honda/Acura - Genuine Honda CVT Fluid Multimatic (HMMF)
+Honda/Acura - 08260-9904
+Honda/Acura - 08200-9006
+Honda/Acura - 08200-HCF2
+Honda/Acura - 5030119 / 08798-9018
+Honda/Acura - HCF-2
+Hyundai/Kia - SP-CVT 1
+Hyundai - Genuine CVTF
+Mazda - CVTF
+Mazda - Mobil CVT 3320
+Mercedes-Benz - 236.20
+Mercedes-Benz - 722.8
+Mercedes-Benz - 001 989 46 03
+Mercedes-Benz - Shell CVT Fluid 0282
+Mercedes-Benz - Fuchs Titan ATF CVT
+Mitsubishi - CVTF-J1
+Mitsubishi - CVTF-J4
+Mitsubishi - MZ313973
+Mitsubishi - MZ320185
+Nissan - NS-1
+Nissan - NS-2
+Nissan - NS-3
+Nissan - 999MP-NS200P
+Nissan - KLE52-00004
+Nissan - WSS-M2C-936-A
+Subaru - High Torque CVT Fluid SOA748V0200
+Subaru - Lineartronic CVTF
+Subaru - Lineartronic CVTF-III
+Subaru - Lineartronic II
+Subaru - K0425Y0711
+Subaru - K0425Y0710
+Subaru - CV-30
+Subaru - TF690
+Subaru - TR580
+Subaru - TR690
+Subaru - e-CVTF
+Subaru - i-CVT FG
+Subaru - SOA427V1600
+Subaru - SOA427V1610
+Subaru - SOA427V1660
+Subaru - SOA868V9245
+Suzuki - TC
+Suzuki - NS-2
+Suzuki - CVT Shell Green 1V
+Suzuki - CVTF Green 2
+Toyota/Scion - TC
+Toyota/Scion - FE
+Toyota - 08886-02105
+Volvo - 5344959-6
+Volvo - ZF VT1-27T
+Volvo - VT1-13A
+Volkswagen/Audi - G 052 852
+Volkswagen/Audi - G 052 180 A1
+Volkswagen/Audi - G 052 180 J1
+Volkswagen/Audi - G 052 516
+Volkswagen/Audi - TL 52180

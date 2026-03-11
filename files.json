@@ -1,0 +1,63 @@
+
+{
+  "oil": [
+    "data/oils/EDGE/EDGE_0W-16.txt",
+    "data/oils/EDGE/EDGE_0W-20.txt",
+    "data/oils/EDGE/EDGE_0W-8.txt",
+    "data/oils/EDGE/EDGE_10W-30.txt",
+    "data/oils/EDGE/EDGE_5W-20.txt",
+    "data/oils/EDGE/EDGE_5W-30.txt",
+    "data/oils/EDGE/EDGE_5W-50.txt",
+    "data/oils/EDGE/EDGE_DX_0W-30.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_10W-60.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_A3_B4_0W-30.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_A3_B4_0W-40.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_A3_B4_5W-30.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_A3_B4_5W-40.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_K_5W-30.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_LL-17_FE+_0W-20.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_LL_0W-30.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_LL_IV_0W-20.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_M_0W-20.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_M_0W-40.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_M_5W-40.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_TD_0W-20.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_TD_5W-40.txt",
+    "data/oils/EDGE%20EURO%20CAR/EURO_V_0W-20.txt",
+    "data/oils/EDGE%20EXTENDED%20PERFORMACE/EDGE_EP_0W-20.txt",
+    "data/oils/EDGE%20EXTENDED%20PERFORMACE/EDGE_EP_5W-20.txt",
+    "data/oils/EDGE%20EXTENDED%20PERFORMACE/EDGE_EP_5W-30.txt",
+    "data/oils/EDGE%20HIGH%20MILEAGE/EDGE_HM_0W-20.txt",
+    "data/oils/EDGE%20HIGH%20MILEAGE/EDGE_HM_5W-20.txt",
+    "data/oils/EDGE%20HIGH%20MILEAGE/EDGE_HM_5W-30.txt",
+    "data/oils/EDGE%20PROFESSIONAL/EDGE_PRO_A5_5W-30.txt",
+    "data/oils/EDGE%20PROFESSIONAL/EDGE_PRO_C1_5W-30.txt",
+    "data/oils/EDGE%20PROFESSIONAL/EDGE_PRO_EC_0W-20.txt",
+    "data/oils/EDGE%20PROFESSIONAL/EDGE_PRO_E_0W-30.txt",
+    "data/oils/EDGE%20PROFESSIONAL/EDGE_PRO_VE_0W-20.txt",
+    "data/oils/EDGE%20PROFESSIONAL/EDGE_PRO_V_0W-20.txt",
+    "data/oils/GTX/GTX_10W-30.txt",
+    "data/oils/GTX/GTX_10W-40.txt",
+    "data/oils/GTX/GTX_20W-50.txt",
+    "data/oils/GTX/GTX_5W-20.txt",
+    "data/oils/GTX/GTX_5W-30.txt",
+    "data/oils/GTX%20HIGH%20MILEAGE/GTX_HM_10W-30.txt",
+    "data/oils/GTX%20HIGH%20MILEAGE/GTX_HM_5W-20.txt",
+    "data/oils/GTX%20HIGH%20MILEAGE/GTX_HM_5W-30.txt",
+    "data/oils/MAGNATEC/MAGNATEC_0W-16.txt",
+    "data/oils/MAGNATEC/MAGNATEC_0W-20.txt",
+    "data/oils/MAGNATEC/MAGNATEC_5W-20.txt",
+    "data/oils/MAGNATEC/MAGNATEC_5W-30.txt"
+  ],
+  "oilfilters": [
+    "data/oilfilters/oilfilters.txt"
+  ],
+  "transmission": [
+    "data/transmission/RLNSCVT.txt",
+    "data/transmission/liquimolyTopTec1800.txt"
+  ],
+  "differential": [
+    "data/differential/RL7075GL4S.txt",
+    "data/differential/RL7585GL5S.txt"
+  ]
+}

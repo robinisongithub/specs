@@ -1,0 +1,12 @@
+Specifications covered by EDGE DX 0W-30 02062:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- ILSAC GF-5
+- ILSAC GF-6A
+- ILSAC GF-7A
+- GM dexos1:2010
+- GM dexos1-Gen2
+- Chrysler MS-6395

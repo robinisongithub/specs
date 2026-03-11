@@ -1,0 +1,56 @@
+API - GL-4 / GL-3 / GL-1
+SAE - 70W / 75W
+BMW - DTF 1
+BMW - X-Drive Transfer Case Fluid
+BMW - 83 22 0 306 816
+BMW - 83 22 0 397 244
+BMW - 83 22 2 409 710
+BorgWarner - 44-40 / 44 / 45 / 46 / 47 / 48 / 49 Transfer Cases
+Cadillac - 19331044
+Castrol - BOT 270A (Graziano Transaxle – Aston Martin / Audi / Lamborghini)
+Castrol - BOT 350 M3
+Castrol - BOT 303 Mod
+Chevron / Caltex - GS MTF HD 70W
+Chrysler/Dodge/Jeep - 9.55550-MZ6
+Dodge/Fiat - 68092630AA
+Ford - XT-11-QDC
+Ford - WSS-M2C200-D2
+GM - 10-4037
+GM - 19259104
+GM - 19259105
+Haldex - Coupling AWD Systems
+Honda - i-Shift MTF-3
+Honda - i-Shift MTF-III
+Hyundai/Kia - 00232-19063
+Jaguar/Land Rover - C2Z25586
+Mercedes-Benz - A 001 989 98 03 09
+Mercedes-Benz - 235.10
+Mercedes-Benz - 235.73
+Mercedes-Benz - 317
+Mercedes-Benz - 001 989 26 03 10
+Mercedes-Benz - A 001 989 98 03 09
+Mobil - Mobilfluid LT
+Nissan/Infiniti - 999MP-TF0870P
+Nissan/Infiniti - TF0870 / BOT 270A
+Porsche - 000 043 300 36
+Porsche - 000 043 301 36
+Porsche - 000 043 305 63
+Ram/Mopar - 68049954AA / AC
+Ram/Mopar - 68089195AA
+Shell - SPIRAX S6 GHME 70W
+Shell - TF 0870
+SK - HK MTF 70W
+Toyota - MT Gear Oil LV 75W
+Toyota - 08885-81007
+Toyota - 08885-81040
+Toyota/Lexus - Transfer Case Fluid (Genuine Gear Oil LF 75W) 08885-81080
+Toyota/Scion - Manual Transmission Oil LV
+Toyota/Scion - 08885-81001
+Volkswagen - G 052 726
+Volkswagen/Audi - G 052 171
+Volkswagen/Audi - G 052 512 A2
+Volkswagen/Audi - G 055 515
+Volkswagen/Audi - G 052 527 A2
+Volkswagen/Audi - G 052 725
+Volkswagen/Audi - G 060 726 A2
+Volkswagen/Audi - G 070 726 A2

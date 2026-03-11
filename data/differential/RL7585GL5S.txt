@@ -1,0 +1,72 @@
+API - GL-5
+API - MT-1
+MIL - L-2105E
+SAE - J2360
+Acura - OEM
+Alfa Romeo - OEM
+Audi - OEM
+Buick - OEM
+BMW/Mini - 83 12 0 445 838
+BMW/Mini - 83 22 2 295 532
+BMW/Mini - 83 22 2 413 511
+BMW/Mini - 83 22 2 413 512
+BMW/Mini - 83 22 2 447 362
+BMW/Mini - Castrol BOT 448
+BMW/Mini - Hypoid Axle Oil G1
+BMW/Mini - Hypoid Axle Oil G2
+BMW/Mini - Hypoid Axle Oil G3
+BMW/Mini - Hypoid Axle Oil G4
+Cadillac - OEM
+Chrysler/Dodge/Jeep - MS-A0450
+Chrysler/Dodge/Jeep - 68083381AA
+Chrysler/Dodge/Jeep - 68378949AA
+Chrysler/Dodge/Jeep - 68237820AA
+Chrysler/Dodge/Jeep - 68210057AA
+Chrysler/Dodge/Jeep - 68218654AA
+Chrysler/Dodge/Jeep - 05136035AA
+Chrysler/Dodge/Jeep - 68232948AA
+Chrysler/Dodge/Jeep - 68333589AA
+Fiat - OEM
+Ford - WSS-M2C942-A
+Ford - XY-75W85-QL
+Genesis - OEM
+GM - 9986551
+GM - 19300457
+GM - 19418501
+GM - 88862826
+GM - 92184900
+GM - SAF Carbon Mod
+GM - SAF-EH MOD LV
+GMC - OEM
+Honda/Acura - 08200-9014A
+Honda/Acura - Hypoid Gear Oil HGO-1
+Hyundai - OEM
+Infiniti - OEM
+Jaguar - OEM
+Jeep - OEM
+Kia - OEM
+Land Rover - OEM
+Lexus - OEM
+Lincoln - OEM
+Mazda - K020-01-SG1
+Mercedes-Benz - 231.1
+Mercedes-Benz - 235.15
+Mercedes-Benz - 235.62
+Mercedes-Benz - 235.7
+Mercedes-Benz - 235.74
+Mercedes-Benz - 239.71
+Mercedes-Benz - 239.72
+Mercedes-Benz - A 000 989 73 04
+Mercedes-Benz - A 000 989 88 03
+Mercedes-Benz - A 001 989 59 03
+Mercedes-Benz - A 001 989 33 03
+Mercedes-Benz - A 002 989 02 03
+MG - OEM
+Mopar - LL Hypoid Gear Oil
+Nissan/Infiniti - KDL38-75801P
+Toyota/Lexus - 08885-02506
+Toyota/Lexus - 08885-02606
+Toyota/Lexus - 08885-81060
+Toyota/Lexus - Gear Oil LT/LX
+Volvo - G 052 513
+Volkswagen/Audi - G 052 513

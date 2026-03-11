@@ -1,0 +1,8 @@
+Specifications covered by EDGE 10W-30 02013:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- Chrysler MS-6395
+- Ford M2C963-A1

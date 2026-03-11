@@ -1,0 +1,11 @@
+Specifications covered by MAGNATEC 0W-16 02208:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- ILSAC GF-6B
+- ILSAC GF-7B
+- Ford M2C947-A
+- Ford M2C947-B1
+- Ford M2C962-A1

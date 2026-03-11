@@ -1,0 +1,6 @@
+Specifications covered by EDGE 0W-8 02032:
+
+- API SQ
+- ILSAC GF-6B
+- ILSAC GF-7B
+- JASO GLV-1

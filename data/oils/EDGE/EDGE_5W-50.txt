@@ -1,0 +1,7 @@
+Specifications covered by EDGE 5W-50 02010:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- Chrysler MS-6395

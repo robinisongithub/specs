@@ -1,0 +1,5 @@
+Specifications covered by GTX 20W-50 00014:
+
+- API SN
+- API SN PLUS
+- API SP

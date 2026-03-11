@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<title>Auto Lookup Tool</title>
+
+<style>
+
+body{
+font-family:Arial;
+max-width:900px;
+margin:auto;
+padding:40px;
+}
+
+input[type=text]{
+width:100%;
+padding:12px;
+font-size:18px;
+margin-bottom:20px;
+}
+
+.filters{
+margin-bottom:20px;
+}
+
+.result{
+border-bottom:1px solid #ddd;
+padding:10px;
+}
+
+.filename{
+font-weight:bold;
+}
+
+.line{
+font-family:monospace;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>Automotive Search</h2>
+
+<input type="text" id="searchBox" placeholder="Search..." onkeyup="searchText()">
+
+<div class="filters">
+
+<label><input type="checkbox" value="oil" checked> Oil</label>
+<label><input type="checkbox" value="oilfilters" checked> Oil Filters</label>
+<label><input type="checkbox" value="transmission" checked> Transmission</label>
+<label><input type="checkbox" value="differential" checked> Differential</label>
+
+</div>
+
+<div id="results"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

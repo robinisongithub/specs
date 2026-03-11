@@ -1,0 +1,20 @@
+- ACEA A3/B4
+- ACEA C3
+- API CF
+- API SP
+- BMW Longlife-01
+- BMW Longlife-04
+- Chrysler MS-12633
+- Chrysler MS-12991
+- Fiat 9.55535-S2
+- Ford WSS-M2C956-A1
+- MB Approval 229.3
+- MB Approval 229.5
+- MB Approval 229.51
+- MB Approval 229.52
+- Opel OV 040 1547-D30/G30
+- Porsche C20
+- Renault RN0700
+- Renault RN0710
+- VW 502.00
+- VW 505.00

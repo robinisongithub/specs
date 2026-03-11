@@ -1,0 +1,15 @@
+Specifications covered by EDGE EP 5W-20 02065:
+
+- API SN
+- API SN PLUS
+- API SP
+- API SQ
+- ACEA C5
+- ILSAC GF-5
+- ILSAC GF-6A
+- ILSAC GF-7A
+- Ford M2C960-A1
+- GM dexos1:2010
+- GM dexos1-Gen2
+- GM dexos1-Gen3
+- Chrysler MS 6395
